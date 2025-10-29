@@ -8,3 +8,4 @@ for item in dict1.items():
 print()
 for key,value in dict1.items(): #分离元组数据（拆包）
     print(f'{key}={value}')
+#oh my goodness
